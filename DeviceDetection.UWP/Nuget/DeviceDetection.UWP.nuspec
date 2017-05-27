@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>DeviceDetection.UWP</id>
+    <version>1.0.0</version>
+    <title>DeviceDetection.UWP</title>
+    <authors>Hussein Habibi Juybari</authors>
+    <owners>Hussein.Juybari</owners>
+	<projectUrl>https://github.com/Husseinhj/DeviceDetection.UWP</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Detect what is device type</description>
+    <copyright>Copyright ©  2017</copyright>
+	<iconUrl>http://uupload.ir/files/1oj9_universal_icon.png</iconUrl>
+	<tags>DeviceDetection DeviceType UWP</tags>
+    <dependencies />
+  </metadata>
+</package>
