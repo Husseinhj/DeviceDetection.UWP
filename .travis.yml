@@ -3,4 +3,7 @@
 # * https://github.com/supermarin/xcpretty#usage
 
 language: csharp
-solution: DeviceDetection.UWP/DeviceDetection.UWP.csproj
+solution: DeviceDetection.UWP.sln
+install:
+  - sudo apt-get install -y gtk-sharp2
+  - nuget restore DeviceDetection.UWP.sln
