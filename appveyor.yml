@@ -1,6 +1,3 @@
-branches:
-  - master
-
 skip_tags: true
 
 image: Visual Studio 2015
