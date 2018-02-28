@@ -1,5 +1,3 @@
-skip_tags: true
-
 image: Visual Studio 2015
 
 configuration: Release
@@ -8,6 +6,4 @@ before_build:
     - nuget restore DeviceDetection.UWP.sln
 
 build: 
-  parallel: true
   project: DeviceDetection.UWP.sln
-  verbosity: normal
