@@ -60,7 +60,7 @@ namespace DeviceDetection.UWP
                 /// <param name="device">Device name</param>
                 /// <param name="exception">Exception for error if this happening</param>
                 /// <param name="orientation">Orientation of your device</param>
-                protected internal DeviceAndSizes(Size size, Devices device, Exception exception,
+                internal DeviceAndSizes(Size size, Devices device, Exception exception,
                     DisplayOrientations orientation)
                 {
                     Size = size;
