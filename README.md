@@ -1,4 +1,3 @@
-# DeviceDetection.UWP [![Build Status](https://travis-ci.org/Husseinhj/DeviceDetection.UWP.svg?branch=master)](https://travis-ci.org/Husseinhj/DeviceDetection.UWP) ![Nuget version](https://img.shields.io/nuget/v/DeviceDetection.UWP.svg?style=flat) ![downloads](https://img.shields.io/nuget/dt/DeviceDetection.UWP.svg?style=flat)
+# DeviceDetection.UWP [![Build status](https://ci.appveyor.com/api/projects/status/eulmha6rlfd3ryaj?svg=true)](https://ci.appveyor.com/project/Husseinhj/devicedetection-uwp)
+ ![Nuget version](https://img.shields.io/nuget/v/DeviceDetection.UWP.svg?style=flat) ![downloads](https://img.shields.io/nuget/dt/DeviceDetection.UWP.svg?style=flat)
 Detect your device is 4 or 4.5 , 5 , 6 , tablet or wide ,...
-
-
