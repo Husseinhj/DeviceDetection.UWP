@@ -7,3 +7,5 @@ before_build:
 
 build: 
   project: DeviceDetection.UWP.sln
+
+platform: x86
