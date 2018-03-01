@@ -4,8 +4,3 @@ configuration: Release
   
 before_build:
     - nuget restore DeviceDetection.UWP.sln
-
-build: 
-  project: DeviceDetection.UWP.sln
-
-platform: x86
